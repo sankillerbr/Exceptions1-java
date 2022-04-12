@@ -12,6 +12,7 @@ public class Program {
 		SimpleDateFormat sdf = new SimpleDateFormat("dd/MM/yyyy");
 		
 		System.out.print("Room Number: ");
+		System.out.print("Room Number: ");
 		 
 	}
 
